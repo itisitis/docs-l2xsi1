@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-5w7u5y.radarsatu88.shop/sitemap.xml
